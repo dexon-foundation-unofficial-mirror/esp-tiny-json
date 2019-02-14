@@ -1,4 +1,6 @@
-# tiny-json
+# esp-tiny-json
+
+ESP-IDF port of the [tiny-json](https://github.com/rafagafe/tiny-json) project.
 
 [![Build Status](https://travis-ci.org/rafagafe/tiny-json.svg?branch=master)](https://travis-ci.org/rafagafe/tiny-json)
 
